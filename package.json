@@ -2,7 +2,7 @@
   "name": "react-app-gh-pages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ravjot28/react-app-gh-pages",
+  "homepage": "https://ravjot28.github.io/react-app-gh-pages",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.3.2",
